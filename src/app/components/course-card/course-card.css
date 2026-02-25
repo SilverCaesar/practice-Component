@@ -1,0 +1,32 @@
+.logo {
+  color: #ffc82e;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.course-card {
+  text-align: center;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 5px 5px 10px #0a5640;
+}
+
+.course-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.course-description {
+  font-size: 1.2rem;
+}
+
+.credits {
+  font-weight: bold;
+  text-decoration: #0a5640 underline;
+}
+
+.instructor {
+  font-size: medium;
+  color: goldenrod;
+  font-style: italic;
+}
